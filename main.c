@@ -100,9 +100,6 @@ void relatorioPorEstado(Vertice grafo[]) {
     }
 }
 
-
-#include <stdbool.h>
-
 void buscarCaminho(Vertice grafo[]) {
     int origem, destino;
 
